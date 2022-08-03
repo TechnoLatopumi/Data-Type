@@ -1,0 +1,15 @@
+C:\Users\Tegar\Desktop\Github-Project\C#\data-str-va-int-float-basic\bin\Debug\net6.0\data-str-va-int-float-basic.exe
+C:\Users\Tegar\Desktop\Github-Project\C#\data-str-va-int-float-basic\bin\Debug\net6.0\data-str-va-int-float-basic.deps.json
+C:\Users\Tegar\Desktop\Github-Project\C#\data-str-va-int-float-basic\bin\Debug\net6.0\data-str-va-int-float-basic.runtimeconfig.json
+C:\Users\Tegar\Desktop\Github-Project\C#\data-str-va-int-float-basic\bin\Debug\net6.0\data-str-va-int-float-basic.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\data-str-va-int-float-basic\bin\Debug\net6.0\data-str-va-int-float-basic.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\data-str-va-int-float-basic\obj\Debug\net6.0\data-str-va-int-float-basic.csproj.AssemblyReference.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\data-str-va-int-float-basic\obj\Debug\net6.0\data-str-va-int-float-basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tegar\Desktop\Github-Project\C#\data-str-va-int-float-basic\obj\Debug\net6.0\data-str-va-int-float-basic.AssemblyInfoInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\data-str-va-int-float-basic\obj\Debug\net6.0\data-str-va-int-float-basic.AssemblyInfo.cs
+C:\Users\Tegar\Desktop\Github-Project\C#\data-str-va-int-float-basic\obj\Debug\net6.0\data-str-va-int-float-basic.csproj.CoreCompileInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\data-str-va-int-float-basic\obj\Debug\net6.0\data-str-va-int-float-basic.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\data-str-va-int-float-basic\obj\Debug\net6.0\refint\data-str-va-int-float-basic.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\data-str-va-int-float-basic\obj\Debug\net6.0\data-str-va-int-float-basic.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\data-str-va-int-float-basic\obj\Debug\net6.0\data-str-va-int-float-basic.genruntimeconfig.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\data-str-va-int-float-basic\obj\Debug\net6.0\ref\data-str-va-int-float-basic.dll
