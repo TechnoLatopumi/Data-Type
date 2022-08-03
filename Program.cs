@@ -4,6 +4,6 @@
     {
 
 
-        Console.WriteLine("Giraffe\nAcademy");
+        Console.WriteLine("Giraffe\"Academy\"");
     }
 }
